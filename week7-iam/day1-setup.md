@@ -4,7 +4,7 @@
 
 ### Account Creation
 - Created AWS Free Tier account
-- Account ID: [your account ID from console]
+- Account ID: [my account ID from console]
 - Primary region: US East (Ohio) / us-east-2
 
 ### Security Setup
@@ -15,7 +15,7 @@
 ✅ IAM billing access enabled
 
 ### Console Sign-In URL
-`https://[your-account-id].signin.aws.amazon.com/console`
+`https://[my-account-id].signin.aws.amazon.com/console`
 
 ## Key Concepts Learned
 
