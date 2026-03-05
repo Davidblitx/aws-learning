@@ -120,4 +120,4 @@ sudo ss -tulpn
 - Learn about Auto Scaling
 
 ## Website Screenshot
-[Insert screenshot of http://18.222.0.223 showing custom page]
+![EC2 Custom Page Success](./images/ec2-success.png)
