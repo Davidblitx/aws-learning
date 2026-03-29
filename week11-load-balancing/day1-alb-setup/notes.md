@@ -112,7 +112,7 @@ Internet → IGW → ALB (public subnets, 2 AZs)
 - **Port:** 80
 - **Default action:** Forward to web-servers-tg
 
-**DNS name:** david-web-alb-[random].us-east-2.elb.amazonaws.com
+**DNS name:** david-web-alb-47268254.us-east-2.elb.amazonaws.com
 
 **Result:** ALB distributes traffic across both instances
 
